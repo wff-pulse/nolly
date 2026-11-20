@@ -1,0 +1,14 @@
+ポストカード（1123配布）QR用 ムービーページ
+
+■ 流れ
+QRを読み取る → ノーリーのムービー（約22秒）→ 終わると自動で
+https://pulseculture.ai/limited-keepsake/aichi-autumn-01/?lang=ja&assigned=1 へ移動
+（スキップボタンあり／音はボタンで出せます）
+
+■ アップロード
+GitHubの wff-pulse/nolly リポジトリに、このフォルダ「postcard-aichi-autumn-01」をフォルダごと追加してください。
+（ステッカー用の index.html と同じ階層）
+
+■ 公開URL（QRに入れるURL）
+https://wff-pulse.github.io/nolly/postcard-aichi-autumn-01/
+※リポジトリ名やGitHub Pagesの設定が違う場合は、URLが変わります。その場合はQRを作り直します。
